@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/13395960/161966597-e0ea4c2f-6ff3-4eef-98bc-6684ea0a45ea.mp4
 
 # Sayollo
 
@@ -23,3 +22,12 @@ https://user-images.githubusercontent.com/13395960/161966597-e0ea4c2f-6ff3-4eef-
 ## PurchaseView
 - Возможность повтора операции при возникновении ошибок
 - Валидация полей ввода банковской карты
+
+## Demo
+
+https://user-images.githubusercontent.com/13395960/161966597-e0ea4c2f-6ff3-4eef-98bc-6684ea0a45ea.mp4
+
+## Demo with exception
+
+https://user-images.githubusercontent.com/13395960/161967599-695214e6-8045-48a9-952f-32339361721c.mp4
+
