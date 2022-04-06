@@ -16,12 +16,13 @@ public class VideoAd : MonoBehaviour
     [SerializeField]
     private GameObject progressIndicator;
 
-    private VideoPlayer videoPlayer;
-
+    //Urls
+    [TextArea]
     [SerializeField]
     private string adURL;
     private string videoUrl;
 
+    //Retry
     [Tooltip("Maximum number of retry on error")]
     [SerializeField]
     private int maxRetryCount;
@@ -31,8 +32,7 @@ public class VideoAd : MonoBehaviour
     private bool needRetry;
 
     private string videoFilePath;
-
-
+    private VideoPlayer videoPlayer;
     private int retryCounter;
 
     private void Start()
